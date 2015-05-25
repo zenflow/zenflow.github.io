@@ -1,0 +1,22 @@
+{
+  "name": "zenflow.github.io",
+  "version": "1.0.0",
+  "description": "zenflow.github.io",
+  "scripts": {
+    "build": "node_modules\\.bin\\gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://zenflow@github.com/zenflow/zenflow.github.io.git"
+  },
+  "author": "Matthew Francis Brunetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenflow/zenflow.github.io/issues"
+  },
+  "homepage": "https://github.com/zenflow/zenflow.github.io",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.8.11"
+  }
+}
